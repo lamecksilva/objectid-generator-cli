@@ -4,8 +4,10 @@ This package is a generator for MongoDB ObjectId's for output in terminal
 
 # Instalation
 
+> _OBS_: In future i will publish this package in npm
+
 ```sh
-git clone 'this repo'
+git clone git@github.com:lamecksilva/objectid-generator-cli.git
 cd objectid-generator-cli
 npm i
 sudo npm install -g ./
